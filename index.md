@@ -76,3 +76,10 @@ layout: default
 
 　　总之，在2025年为巴巴多斯之行选择网络方案，你拥有不错的灵活性。追求性价比和本地体验，下飞机办张Digicel或Flow的卡；追求无缝衔接和高效，提前配置好eSIM。无论哪种，都能让你更好地享受这座加勒海明珠的美丽风光。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Barbados SIM 卡购买与激活指南](https://faciylike.github.io/barbados-sim-guides)
